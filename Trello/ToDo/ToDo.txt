@@ -1,0 +1,7 @@
+				To Do
+
+1. FR2: Login for employee
+2. FR3: View profile details by employee
+3. FR4: Update my daily task by employee
+4. FR5: Edit profile information by employee
+5. FR6: View sprint burndown and burnup charts by employee
