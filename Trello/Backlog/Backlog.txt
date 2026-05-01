@@ -1,21 +1,22 @@
 			Product Backlog
 
 
-1 Create a new employee account by admin
-2 View all user information by admin
-3 Update any user's information by admin
-4 Delete user by admin
-5 Configure project baseline by admin
-6 Set performance alert thresholds by admin
-7 View all sprint records and EVM metrics by admin
-8 Generate and export performance reports by admin
-9 View all login history and audit logs by admin
-10 Create an account and log in for customer
-11 View the real-time EVM performance for customer
-12 View project EAC and ETC forecasts for customer
-13 Sprint list with status for customer
-14 Alerts for customer
-15 Download summary report
-16 View personal EVM metrics for employee
+
+1 Update any user's information by admin
+2 Delete user by admin
+3 Set performance alert thresholds by admin
+4.Generate and export performance reports  by admin
+5 View all login history and audit logs by admin
+6 Create an account and log in for customer
+7 View my profile by customer
+8 View the real-time EVM performance for customer
+9 View project EAC and ETC forecasts for customer
+10 Sprint list with status for customer
+11 Alerts for customer
+12 Download summary report
+13 View profile details by employee
+14 Edit profile information by employee
+15 View personal EVM metrics for employee
+16 View sprint burndown and burnup charts by employee
 17 Receive alerts for employee
 18 Download personal performance report for employee
