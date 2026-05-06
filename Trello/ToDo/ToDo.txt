@@ -1,6 +1,6 @@
 				To Do
 1. FR2: Login for employee
-2. FR3: Configure project baseline by admin
+2. FR3: Configure project baseline by admin (by Fahim)
 3. FR4: Update my daily task by employee (By Rafi)
 4. FR5: View all sprint records and EVM metrics by admin
 5. FR6: View all profiles by admin
